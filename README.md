@@ -1,36 +1,44 @@
-## Welcome to GitHub Pages
+## Projecte Integrador: START-APP
 
-You can use the [editor on GitHub](https://github.com/JordiMateoUdL/TIDIC-2019-2020-Projecte.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+                                     -- Steve Jobs
+                                     
+                                     
+ Goals
+------
 
-### Markdown
+* Apply all the learned methods in a real project.
+* Be ambitious, creative, confident and persistent.
+* Work hard.
+* Take risks.
+* The philosophy must no be: I need to do to pass the course, must be this project is my dream, who knows if maybe is the seed to a future successful company.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Methodology
+-----------
 
-```markdown
-Syntax highlighted code block
+* **Project-Based Course**: Learning by doing.
+* **Competitive Team-Based Learning**:
+  * Work in groups (2-3).
+  * Build an APP.
+  * Create a Start-Up.
+  * Win the final contest (*START-APP*).
+* **Coworking and Collaborative Learning**:
+  * Make an oral speech and get **feedback** from the rest of the groups.
+  * Make better solutions.
+* **Learn to learn**:
+  * Overcome difficulties.
+  * Find solutions.
+  * Don't give up.
 
-# Header 1
-## Header 2
-### Header 3
+Projects
+----------
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JordiMateoUdL/TIDIC-2019-2020-Projecte.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- BeeNote
+- AFavour
+- TournMaster
+- Urband
+- Easy-Tutor
 
 ### Support or Contact
 
